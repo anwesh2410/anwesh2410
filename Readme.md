@@ -1,182 +1,97 @@
-```markdown
+<p align="center">
+  <!-- Optional: Add a banner image here -->
+  <!-- <img src="YOUR_BANNER_IMAGE_URL" alt="Profile Banner" width="100%"/> -->
+</p>
 
-
-# Hi there, I'm Ale Anwesh! 👋
-
-
-
-
-
----
-
-## 🚀 About Me
-
-🎓 **B.Tech AI & Data Science Engineering** at **IIT Jodhpur** (2022-2026)  
-💼 **Business Analyst Intern** at **Snapmint Credit Advisory Pvt. Ltd**  
-🔬 **Research Intern** at **Plant Phenomics** (IARI Partnership)  
-🏆 **JEE Advanced AIR 6351** | **JEE Mains Top 1%**  
-
-- 🔭 Currently working on **Advanced ML Models** and **Fintech Analytics**
-- 🌱 Learning **Quantum Computing** and **Deep Learning Architectures**
-- 👯 Looking to collaborate on **AI Research** and **Open Source Projects**
-- 💬 Ask me about **Machine Learning, Data Engineering, Computer Vision**
-- ⚡ Fun fact: **I love exploring the intersection of AI and Finance!**
+<div align="center">
+  <h1>
+    Hi there, I'm Anwesh! 
+    <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+  </h1>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00BFFF&width=435&lines=AI+%26+Data+Science+Engineer;B.Tech+Student+%40+IIT+Jodhpur;Fintech+Enthusiast;Open+Source+Contributor" alt="Typing SVG" /></a>
+</div>
 
 ---
 
-## 🛠️ Tech Stack
+## 👨‍💻 About Me
 
-### Programming Languages
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![SQL](https://img.shields.io/badge/sql-%2307405e.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-![Bash](https://img.shields.io/badge/bash-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
+I'm a passionate **AI & Data Science Engineer** and a B.Tech student at **IIT Jodhpur**. I'm deeply interested in the intersection of technology and finance, particularly in Fintech innovations. I enjoy building impactful projects and contributing to the open-source community.
 
-### Machine Learning & AI
-![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white)
-![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white)
+-   🔭 I’m currently working on ...
+-   🌱 I’m currently learning ...
+-   👯 I’m looking to collaborate on ...
+-   🤔 I’m looking for help with ...
+-   💬 Ask me about ...
+-   📫 How to reach me: [Your Email Address] or [Your LinkedIn Profile URL]
+-   😄 Pronouns: He/Him
+-   ⚡ Fun fact: ...
 
-### Data Engineering & Cloud
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-![Apache Spark](https://img.shields.io/badge/Apache%20Spark-FDEE21?style=for-the-badge&logo=apachespark&logoColor=black)
-![Kafka](https://img.shields.io/badge/Apache%20Kafka-000?style=for-the-badge&logo=apachekafka)
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/postgresql-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+---
 
-### Specialized Tools
-![Qiskit](https://img.shields.io/badge/Qiskit-%236929C4.svg?style=for-the-badge&logo=Qiskit&logoColor=white)
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Streamlit](https://img.shields.io/badge/Streamlit-%23FE4B4B.svg?style=for-the-badge&logo=streamlit&logoColor=white)
+## 🛠️ My Tech Stack
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=python,java,cpp,c,bash,mysql,postgres,sqlite,tensorflow,pytorch,sklearn,opencv,keras,docker,aws,gcp,spark,kafka,git,linux,figma,idea,vscode,streamlit&perline=8" />
+  </a>
+</p>
 
 ---
 
 ## 📊 GitHub Analytics
 
-
-  
-  
-
-
-
-  
-
-
-
-  
-
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=anwesh2410&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="anwesh2410's GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anwesh2410&layout=compact&theme=tokyonight" alt="Top Languages" />
+</p>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=anwesh2410&theme=tokyonight" alt="GitHub Streak" />
+</p>
+<p align="center">
+  <img src="https://ghchart.rshah.org/anwesh2410?color=79ff97&theme=dark" alt="anwesh2410's GitHub Contribution Graph" />
+</p>
 
 ---
 
 ## 🚀 Featured Projects
 
-
-
-### 🎭 Real-Time Face Mask Detection
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anwesh2410&repo=Face-Mask-Detection&theme=tokyonight)](https://github.com/anwesh2410/Face-Mask-Detection)
-
-**Ensemble Deep Learning | 79.3% IOU Accuracy | Sub-100ms Processing**
-
-### 💰 Bitcoin Price Prediction
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anwesh2410&repo=Bitcoin-Price-Prediction&theme=tokyonight)](https://github.com/anwesh2410/Bitcoin-Price-Prediction)
-
-**Machine Learning | Time Series Analysis | RMSE: 154.32**
-
-### 🌱 Plant Phenomics Research
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anwesh2410&repo=Plant_Phenomics&theme=tokyonight)](https://github.com/anwesh2410/Plant_Phenomics)
-
-**Computer Vision | 71% IOU Accuracy | IARI Partnership**
-
-### 🖥️ Remote Desktop Application
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anwesh2410&repo=RemoteDesk&theme=tokyonight)](https://github.com/anwesh2410/RemoteDesk)
-
-**Java | Client-Server Architecture | Real-time Streaming**
-
-
+<!-- Replace with your actual projects. You can use GitHub Readme Stats's Pin feature or create custom cards -->
+<p align="center">
+  <a href="YOUR_PROJECT_REPO_LINK_1">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anwesh2410&repo=YOUR_REPO_NAME_1&theme=tokyonight" />
+  </a>
+  <a href="YOUR_PROJECT_REPO_LINK_2">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anwesh2410&repo=YOUR_REPO_NAME_2&theme=tokyonight" />
+  </a>
+</p>
+<p align="center">
+  <a href="YOUR_PROJECT_REPO_LINK_3">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anwesh2410&repo=YOUR_REPO_NAME_3&theme=tokyonight" />
+  </a>
+  <a href="YOUR_PROJECT_REPO_LINK_4">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anwesh2410&repo=YOUR_REPO_NAME_4&theme=tokyonight" />
+  </a>
+</p>
 
 ---
 
-## 💼 Professional Experience
+## 🔗 Connect with Me
 
-
-
-| Role | Company | Duration | Highlights |
-|------|---------|----------|-----------|
-| 🏦 **Business Analyst Intern** | **Snapmint Credit Advisory** | Jun 2025 - Aug 2025 | **₹2,000+ Cr Platform** • **4M+ Users** • **Fintech Analytics** |
-| 🔬 **Research Intern** | **Plant Phenomics (IARI)** | Apr 2024 - Aug 2024 | **10 ML Models** • **71% Accuracy** • **Computer Vision** |
-
-
-
----
-
-## 🎯 Current Focus
-
-```python
-class AleAnwesh:
-    def __init__(self):
-        self.name = "Ale Anwesh"
-        self.role = "AI & Data Science Student"
-        self.location = "IIT Jodhpur, India"
-        self.current_work = "Business Analyst Intern @ Snapmint"
-        
-    def skills(self):
-        return {
-            "languages": ["Python", "Java", "C++", "SQL"],
-            "ml_frameworks": ["TensorFlow", "PyTorch", "Scikit-learn"],
-            "specializations": ["Computer Vision", "NLP", "Time Series"],
-            "quantum": ["Qiskit", "Quantum Algorithms"],
-            "fintech": ["Credit Analytics", "Risk Assessment", "BNPL"]
-        }
-        
-    def achievements(self):
-        return [
-            "JEE Advanced AIR 6351/150K",
-            "79.3% IOU in Face Detection",
-            "₹2000+ Cr Fintech Platform Experience",
-            "10 ML Models Implementation"
-        ]
-```
+<p align="center">
+  <a href="https://www.linkedin.com/in/ale-anwesh-b08932228/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://twitter.com/YOUR_TWITTER_HANDLE" target="_blank"> <!-- Replace with your Twitter if you have one -->
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
+  </a>
+  <a href="mailto:YOUR_EMAIL@example.com" target="_blank"> <!-- Replace with your email -->
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+  </a>
+  <!-- Add other social media badges as needed -->
+</p>
 
 ---
 
-## 🌟 Leadership & Activities
-
-🔭 **Co-Coordinator** - Nexus Science & Astronomy Club, IIT Jodhpur  
-👥 **Class Committee Member** - AIDS Department  
-🏆 **Open Source Contributor** - Multiple Projects  
-
----
-
-## 📫 Let's Connect!
-
-
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anwesh-ale-ba893b25a/)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:b22ai005@iitj.ac.in)
-[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/anwesh2410)
-[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)](https://ale-anwesh-portfolio.vercel.app/)
-
-
-
----
-
-
-  
-### 💭 Quote of the Day
-![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
-
-### 🏆 GitHub Trophies
-[![trophy](https://github-profile-trophy.vercel.app/?username=anwesh2410&theme=tokyonight&column=7)](https://github.com/ryo-ma/github-profile-trophy)
-
-### 👀 Profile Views
-![](https://komarev.com/ghpvc/?username=anwesh2410&color=blueviolet&style=for-the-badge)
-
-
-
----
-
-
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=anwesh2410&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
+</p>
