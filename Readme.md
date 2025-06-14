@@ -2,7 +2,7 @@
 
 # Hi there, I'm Ale Anwesh! 👋
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=435&lines=AI+%26+Data+Science+Engineering+Student;Machine+Learning+Researcher;Business+Analyst+Intern;Full+Stack+Developer;Quantum+Computing+Enthusiast" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=435&lines=AI+%26+Data+Science+Engineering+Student;Machine+Learning+Engineer;AI+Learning+Engineer;Business+Analyst;Data+Analyst;Data+Scientist;Quantum+Computing+Enthusiast" alt="Typing SVG" />
 
 </div>
 
@@ -15,13 +15,13 @@
 🔬 **Research Intern** at **Plant Phenomics** (IARI Partnership)  
 🏆 **JEE Advanced AIR 6351** | **JEE Mains Top 1%**  
 
-- 🔭 I'm currently working on **Advanced Ensemble Deep Learning Models** and **Fintech Analytics at Snapmint**
-- 🌱 I'm currently learning **Quantum Computing with Qiskit** and **Advanced Deep Learning Architectures**
-- 👯 I'm looking to collaborate on **AI Research Projects**, **Open Source ML Libraries**, and **Fintech Solutions**
-- 🤔 I'm looking for help with **Quantum Machine Learning** and **Large Scale Data Engineering**
-- 💬 Ask me about **Machine Learning, Computer Vision, Data Engineering, Python, Java, and Quantum Computing**
-- 📫 How to reach me: **b22ai005@iitj.ac.in** | **LinkedIn: [Your LinkedIn Profile]**
-- ⚡ Fun fact: **I achieved 79.3% IOU accuracy in real-time face mask detection and love exploring the intersection of AI and Finance!**
+- 🔭 I'm currently working on **Autonomous AI Agents with LLM Integration** and **Fintech Analytics at Snapmint**
+- 🌱 I'm currently learning **Production LLM Deployment**, **Agent-based Workflows**, and **Retrieval-Augmented Generation (RAG)**
+- 👯 I'm looking to collaborate on **AI Agent Research**, **LLM Applications**, **NLP-driven Solutions**, and **Autonomous AI Systems**
+- 🤔 I'm looking for help with **LLM Agent Orchestration** and **Production-Scale AI Systems Deployment**
+- 💬 Ask me about **Large Language Models, AI Agents, NLP, Transformer Architectures, Python, and Fintech Analytics**
+- 📫 How to reach me: **b22ai005@iitj.ac.in** | **LinkedIn: [https://www.linkedin.com/in/anwesh-ale-ba893b25a/]**
+- ⚡ Fun fact: **I love exploring the intersection of AI and Finance!**
 
 ---
 
@@ -73,12 +73,12 @@
 **RMSE: 154.32 | SARIMAX Model | Time Series Analysis**
 
 ### 🌱 Plant Phenomics Research
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anwesh2410&repo=Plant_Phenomics&theme=tokyonight)](https://github.com/anwesh2410/Plant_Phenomics)
+<!-- [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anwesh2410&repo=Plant_Phenomics&theme=tokyonight)](https://github.com/anwesh2410/Plant_Phenomics) -->
 
 **71% IOU Accuracy | 10 ML Models | IARI Partnership**
 
 ### 📊 Community Reader Analysis - Data Engineering
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anwesh2410&repo=Community-Reader-Analysis&theme=tokyonight)](https://github.com/anwesh2410/Community-Reader-Analysis)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anwesh2410&repo=Community-Reader-Analysis&theme=tokyonight)](https://github.com/anwesh2410/Book-Recommendation-Site)
 
 **Lambda Architecture | 40% Deployment Time Reduction | Docker**
 
@@ -88,7 +88,6 @@
 **Java | Real-time Streaming | 30fps Support**
 
 ### ⚛️ Quantum Computing Parameter Optimization
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anwesh2410&repo=Quantum-Computing-Optimization&theme=tokyonight)](https://github.com/anwesh2410/Quantum-Computing-Optimization)
 
 **Qiskit | Entanglement States | Parameter Optimization**
 
@@ -127,10 +126,10 @@
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-linkedin-profile)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anwesh-ale-ba893b25a/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:b22ai005@iitj.ac.in)
 [![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/anwesh2410)
-[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/your-twitter-handle)
+<!-- [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/your-twitter-handle) -->
 
 </div>
 
