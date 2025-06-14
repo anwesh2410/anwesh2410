@@ -123,7 +123,7 @@
 
 ## 🎯 Current Focus
 
-```
+```python
 class AleAnwesh:
     def __init__(self):
         self.name = "Ale Anwesh"
