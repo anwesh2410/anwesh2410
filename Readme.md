@@ -78,7 +78,7 @@
 **71% IOU Accuracy | 10 ML Models | IARI Partnership**
 
 ### 📊 Community Reader Analysis - Data Engineering
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anwesh2410&repo=Community-Reader-Analysis&theme=tokyonight)](https://github.com/anwesh2410/Book-Recommendation-Site)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anwesh2410&repo=Book-Recommendation-Site&theme=tokyonight)](https://github.com/anwesh2410/Book-Recommendation-Site)
 
 **Lambda Architecture | 40% Deployment Time Reduction | Docker**
 
