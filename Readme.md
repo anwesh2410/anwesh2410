@@ -153,13 +153,9 @@ class AleAnwesh:
 
 ## 🌟 Leadership & Activities
 
-
-
 🔭 **Co-Coordinator** - Nexus Science & Astronomy Club, IIT Jodhpur  
 👥 **Class Committee Member** - AIDS Department  
 🏆 **Open Source Contributor** - Multiple Projects  
-
-
 
 ---
 
@@ -193,5 +189,3 @@ class AleAnwesh:
 
 
   
-
-```
