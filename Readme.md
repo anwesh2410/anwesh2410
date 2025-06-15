@@ -45,6 +45,11 @@
 
 ---
 
+### 💭 Quote of the Day
+![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+
+---
+
 ## 📊 GitHub Analytics
 
 <div align="center">
@@ -134,10 +139,7 @@
 </div>
 
 ---
-### 💭 Quote of the Day
-![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
----
 ## 📈 Contribution Graph
 
 [![Anwesh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=anwesh2410&theme=tokyo-night)](https://github.com/anwesh2410/github-readme-activity-graph)
